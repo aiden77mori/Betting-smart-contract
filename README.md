@@ -5,7 +5,6 @@
 
 > A decentralized betting and farming platform
 
----
 
 ## Table of Contents
 
